@@ -2,10 +2,10 @@
 
 set -e
 # Replace changeme with your values. Check out readme for more.
-POOL="changeme"
+POOL="ETH"
 PORT=changeme
-MYADDRESS="changeme"
-COINNAME="changeme"
+MYADDRESS="0xEc56F923D422674a193b0636284a9d97D57D9DB3"
+COINNAME="ETHEREUM"
 
 cd xmrig/build
 
